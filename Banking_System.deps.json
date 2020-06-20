@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Banking_System/1.0.0": {
+        "dependencies": {
+          "BankLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Banking_System.dll": {}
+        }
+      },
+      "BankLibrary/1.0.0": {
+        "runtime": {
+          "BankLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banking_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
